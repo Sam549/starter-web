@@ -5,7 +5,9 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
+
 ## Deployment
+Deployment using the AZURE
 ## Introduction
 
 ## How To Contribute

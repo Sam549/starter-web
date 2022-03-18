@@ -15,3 +15,5 @@ this is example is to show different parts of the GIT repo and various commands.
 Fork the Repository
 ## Comparison Tool For GIT
 P4 merge is used for comparsion
+### Copyright
+Git.Training

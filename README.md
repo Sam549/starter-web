@@ -16,4 +16,4 @@ Fork the Repository and then issue pull request for Review
 ## Comparison Tool For GIT
 P4 merge is used for comparsion
 ### Copyright
-Git.Training
+Git.Training 2014 All Right Reserved.
